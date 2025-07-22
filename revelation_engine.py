@@ -1,5 +1,4 @@
 # revelation_engine.py
-
 from datetime import datetime
 
 # Prophetic numbers to check
